@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body></body>
+</html>
+<meta charset="utf-8"><meta name="author" content="Mehrdad Mohammadi rahmani" />
+<title>Make your lik short</title>
+<link href="styles.css" rel="stylesheet" /><meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><script type="application/javascript" src="https://code.jquery.com/jquery-3.4.1.min.js"></script><script src="http://code.jquery.com/jquery-1.9.1.js"></script><script>
+        function sendForm(){
+            $.ajax({
+                type: "POST",
+                url: "E:\\school\\Web Develop\\Projects\\2.php.mesut\\shortlink.php)",
+                data: jQuery("#my_form").serialize(),
+                cache: false,
+                success:  function(data){
+                    /* alert(data); if json obj. alert(JSON.stringify(data));*/
+                }
+            });
+
+        }
+    </script>
+<form>Enter your link : <input name="longlink" placeholder="Enter your link here jigar" type="text" value="" /> Short the link:<input name="submit" onclick="sendForm()" type="submit" value="submit" /></form>
+
+<div id="txtHint"><b>it is existed : .</b></div>

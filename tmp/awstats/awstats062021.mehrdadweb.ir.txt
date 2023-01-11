@@ -1,0 +1,360 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202106 will be lost/reset.
+# Last config file used to build this data file was /home/mehrdadw/tmp/awstats/awstats.mehrdadweb.ir.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2010                
+POS_TIME 2687                
+POS_VISITOR 7079                
+POS_DAY 8736                
+POS_DOMAIN 3350                
+POS_LOGIN 3664                
+POS_ROBOT 3819                
+POS_WORMS 4100                
+POS_EMAILSENDER 4231                
+POS_EMAILRECEIVER 4374                
+POS_SESSION 9391                
+POS_SIDER 9592                
+POS_FILETYPES 4509                
+POS_DOWNLOADS 4658                
+POS_OS 4706                
+POS_BROWSER 4904                
+POS_SCREENSIZE 5241                
+POS_UNKNOWNREFERER 5315                
+POS_UNKNOWNREFERERBROWSER 5516                
+POS_ORIGIN 5712                
+POS_SEREFERRALS 5847                
+POS_PAGEREFS 6078                
+POS_SEARCHWORDS 6226                
+POS_KEYWORDS 6378                
+POS_MISC 2351                
+POS_ERRORS 6437                
+POS_CLUSTER 3520                
+POS_SIDER_404 6538                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20210701010445 10 2083 11775354108826
+FirstTime 20210601121345
+LastTime 20210630213933
+LastUpdate 20210701173100 10 0 9 0 0
+TotalVisits 104                 
+TotalUnique 41                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 41                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavascriptDisabled 0 0 0
+QuickTimeSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+RealPlayerSupport 0 0 0
+FlashSupport 0 0 0
+PDFSupport 0 0 0
+JavaEnabled 0 0 0
+AddToFavourites 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 7 21 148962 6 12 122324
+1 8 8 75787 2 4 13948
+2 17 17 146497 1 4 10792
+3 4 4 80864 1 5 8293
+4 13 13 118213 0 0 0
+5 1 1 33361 2 3 6877
+6 4 4 28284 2 4 12338
+7 2 2 40432 2 3 33734
+8 9 9 63639 1 1 4247
+9 14 18 253744 2 5 11196
+10 9 9 89929 3 6 18507
+11 5 5 61645 2 3 39530
+12 1 1 33361 4 4 62124
+13 2 2 66722 0 0 0
+14 6 6 68716 2 3 39530
+15 7 7 102077 3 6 18507
+16 9 12 198910 0 3 2124
+17 1 1 7071 1 1 33361
+18 5 5 61645 1 2 6169
+19 0 0 0 0 0 0
+20 1 1 33361 0 0 0
+21 8 11 191839 2 5 14656
+22 6 6 42426 6 13 42458
+23 6 6 95006 7 13 47701
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 7
+us 67 68 984078
+kz 45 45 318195
+ru 25 25 176775
+cn 3 12 427026
+hn 2 2 15739
+ir 2 16 113607
+gb 1 1 7071
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 4
+AhrefsBot/ 21 114681 20210629102343 0
+YandexBot/ 11 77781 20210628223732 0
+no_user_agent 6 200166 20210630002902 0
+bingbot/ 5 24530 20210630230608 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 5
+css 5 33106 0 0
+js 10 373719 0 0
+html 138 1597824 0 0
+png 9 28821 0 0
+php 7 9021 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 10
+macosx12 1 1
+linuxandroid 12 3
+win10 69 55
+macosx10 1 1
+Unknown 23 23
+macosx8 1 1
+macosx 32 32
+linux 27 26
+win7 1 1
+linuxubuntu 2 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 14
+chrome91.0.4472.77 1 1
+chrome67.0.3396.87 1 1
+firefox82.0 3 3
+chrome26.0.1410.65 1 1
+chrome70.0.3538.80 12 3
+firefox72.0 10 9
+firefox59.0 1 1
+chrome91.0.4472.114 16 2
+chrome77.0.3865.90 96 96
+chrome66.0.3359.181 2 2
+Unknown 23 23
+firefox68.0 1 1
+firefox66.0 1 1
+chrome74.0.3729.131 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+\ 20210630184320
+colly_-_https://github.com/gocolly/colly/v2 20210601214946
+python-requests/2.25.1 20210609084554
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+python-requests/2.25.1 20210609084554
+colly_-_https://github.com/gocolly/colly/v2 20210601214946
+\ 20210630184320
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 54 61
+From1 0 0
+From2 87 88
+From3 0 0
+From4 4 20
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 5
+bing 16 16
+search_yahoo_com 24 24
+www_google_com 9 10
+duckduckgo 17 17
+yandexcom 21 21
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+206 4 93734
+404 53 37524
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 6
+/ups.php 1 http://simplesite.com
+/wp-json/wp/v2/users/ 1 -
+/wp-content/plugins/1617276961-57893c4171a6898/atomlib.php 1 http://simplesite.com
+/robots.txt 46 -
+/biography/index.js 1 https://www.google.com
+//safari-pinned-tab.svg 3 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 41
+5.252.78.140 29 29 205059 20210630164613
+45.8.204.78 26 26 183846 20210630164002
+185.223.251.36 25 25 176775 20210630165916
+5.252.79.91 16 16 113136 20210625145735
+169.54.172.72 9 10 28941 20210604092446
+177.234.143.242 2 2 15739 20210613094648
+3.234.220.43 2 2 66722 20210618045713
+100.21.218.158 2 2 14142 20210609030728
+31.14.149.34 2 16 113607 20210626003731
+34.200.226.195 1 1 33361 20210610100444
+54.203.73.198 1 1 7071 20210609005651
+54.163.90.240 1 1 7071 20210609084554
+3.239.31.9 1 1 33361 20210607034638
+3.236.93.58 1 1 33361 20210622235111
+18.157.176.47 1 1 7071 20210611071625
+34.237.143.69 1 1 33361 20210607051908
+35.170.78.59 1 1 33361 20210615033059
+124.126.78.176 1 4 142342 20210613092211
+3.216.134.58 1 1 33361 20210619110255
+18.215.124.119 1 1 33361 20210607203153
+124.126.78.148 1 4 142342 20210630213933
+44.192.61.168 1 1 33361 20210626151556
+3.226.253.169 1 1 33361 20210630184320
+52.91.213.178 1 1 7071 20210615174321
+51.15.201.34 1 1 7071 20210630150723
+68.3.78.181 1 1 7071 20210601214946
+3.239.207.41 1 1 33361 20210624095353
+18.206.150.210 1 1 33361 20210620234632
+144.126.139.247 1 1 7071 20210624014619
+54.189.17.15 1 1 7071 20210626015834
+3.83.36.56 1 1 33361 20210622091711
+3.236.167.84 1 1 33361 20210612132119
+3.236.134.9 1 1 33361 20210625134940
+3.67.85.9 1 1 0 20210605011606
+3.239.65.65 1 1 33361 20210613073952
+3.235.166.202 1 1 33361 20210608155732
+18.234.139.11 1 1 33361 20210609144422
+3.235.89.240 1 1 33361 20210601121345
+64.246.165.50 1 1 7071 20210619161712
+61.135.15.149 1 4 142342 20210611165046
+52.207.136.206 1 1 33361 20210605021408
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 28
+20210601 6 6 68716 5
+20210603 4 4 28284 3
+20210604 13 14 57225 4
+20210605 6 6 61645 4
+20210606 4 4 28284 3
+20210607 7 7 128367 6
+20210608 1 1 33361 1
+20210609 9 9 89929 7
+20210610 5 5 61645 4
+20210611 6 9 177697 4
+20210612 1 1 33361 1
+20210613 8 11 219726 6
+20210614 4 4 28284 3
+20210615 6 6 68716 5
+20210616 4 4 28284 2
+20210617 4 4 28284 3
+20210618 6 6 95006 5
+20210619 6 6 68716 4
+20210620 1 1 33361 1
+20210621 4 4 28284 2
+20210622 2 2 66722 2
+20210623 4 4 28284 3
+20210624 6 6 68716 5
+20210625 5 5 61645 5
+20210626 8 22 182323 5
+20210628 4 4 28284 2
+20210629 4 4 28284 3
+20210630 7 10 211058 6
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+5mn-15mn 15
+30mn-1h 1
+15mn-30mn 4
+0s-30s 73
+30s-2mn 5
+2mn-5mn 6
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 9
+/ 136 1585545 104 101
+/home.php 2 0 0 1
+/registration/forget.php 1 4664 0 0
+/registration/register.php 1 4168 0 0
+/shortlink/linkshortener.html 1 8668 0 1
+/login/dologin.php 1 72 0 0
+/biography/biography.html 1 3611 0 0
+/shortlink/onlyshortlink.php 1 80 0 1
+/shortlink/shortlink1.php 1 37 0 0
+END_SIDER

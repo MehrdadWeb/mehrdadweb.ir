@@ -1,0 +1,57 @@
+[02-Sep-2021 22:38:58 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/mehrdadw/public_html/index.php on line 49
+[02-Sep-2021 22:39:50 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/mehrdadw/public_html/index.php on line 49
+[02-Sep-2021 22:40:35 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/mehrdadw/public_html/index.php on line 49
+[02-Sep-2021 22:42:02 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/mehrdadw/public_html/index.php on line 49
+[02-Sep-2021 23:11:41 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/mehrdadw/public_html/index.php on line 49
+[03-Sep-2021 05:02:00 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/mehrdadw/public_html/index.php on line 49
+[03-Sep-2021 09:49:25 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/mehrdadw/public_html/index.php on line 49
+[03-Sep-2021 11:34:27 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/mehrdadw/public_html/index.php on line 49
+[03-Sep-2021 11:41:35 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/mehrdadw/public_html/index.php on line 49
+[03-Sep-2021 12:13:49 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/mehrdadw/public_html/index.php on line 49
+[03-Sep-2021 12:54:57 Asia/Tehran] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/mehrdadw/public_html/index.php on line 49
+[03-Sep-2021 13:07:14 Asia/Tehran] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/mehrdadw/public_html/index.php on line 49
+[03-Sep-2021 13:08:50 Asia/Tehran] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/mehrdadw/public_html/index.php on line 49
+[03-Sep-2021 13:09:27 Asia/Tehran] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/mehrdadw/public_html/index.php on line 49
+[03-Sep-2021 13:20:31 Asia/Tehran] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/mehrdadw/public_html/index.php on line 49
+[03-Sep-2021 14:04:03 Asia/Tehran] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/mehrdadw/public_html/index.php on line 49
+[03-Sep-2021 14:34:17 Asia/Tehran] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/mehrdadw/public_html/index.php on line 49
+[03-Sep-2021 14:34:19 Asia/Tehran] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/mehrdadw/public_html/index.php on line 49
+[03-Sep-2021 14:34:20 Asia/Tehran] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/mehrdadw/public_html/index.php on line 49
+[03-Sep-2021 14:34:22 Asia/Tehran] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/mehrdadw/public_html/index.php on line 49
+[03-Sep-2021 14:34:26 Asia/Tehran] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 5.4.45. in /home/mehrdadw/vendor/composer/platform_check.php on line 25
+[03-Sep-2021 14:35:32 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/mehrdadw/public_html/index.php on line 49
+[03-Sep-2021 14:35:57 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/mehrdadw/public_html/index.php on line 48
+[03-Sep-2021 14:42:47 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/mehrdadw/public_html/index.php on line 49
+[03-Sep-2021 14:42:48 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/mehrdadw/public_html/index.php on line 49
+[03-Sep-2021 14:50:08 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/mehrdadw/public_html/index.php on line 49
+[03-Sep-2021 14:51:27 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/mehrdadw/public_html/index.php on line 49
+[03-Sep-2021 14:52:04 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/mehrdadw/public_html/index.php on line 49
+[03-Sep-2021 14:52:14 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/mehrdadw/public_html/index.php on line 49
+[03-Sep-2021 19:40:36 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/mehrdadw/public_html/index.php on line 49
+[03-Sep-2021 19:40:36 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/mehrdadw/public_html/index.php on line 49
+[03-Sep-2021 19:40:37 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/mehrdadw/public_html/index.php on line 49
+[03-Sep-2021 19:40:37 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/mehrdadw/public_html/index.php on line 49
+[03-Sep-2021 19:40:37 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/mehrdadw/public_html/index.php on line 49
+[03-Sep-2021 19:40:38 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/mehrdadw/public_html/index.php on line 49
+[03-Sep-2021 19:40:39 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/mehrdadw/public_html/index.php on line 49
+[03-Sep-2021 19:40:39 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/mehrdadw/public_html/index.php on line 49
+[03-Sep-2021 19:40:40 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/mehrdadw/public_html/index.php on line 49
+[03-Sep-2021 19:40:40 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/mehrdadw/public_html/index.php on line 49
+[03-Sep-2021 19:40:40 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/mehrdadw/public_html/index.php on line 49
+[03-Sep-2021 19:40:41 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/mehrdadw/public_html/index.php on line 49
+[04-Sep-2021 09:01:30 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/mehrdadw/public_html/index.php on line 49
+[04-Sep-2021 09:03:09 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/mehrdadw/public_html/index.php on line 49
+[04-Sep-2021 09:03:11 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/mehrdadw/public_html/index.php on line 49
+[04-Sep-2021 09:03:19 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/mehrdadw/public_html/index.php on line 49
+[04-Sep-2021 09:07:54 Asia/Tehran] PHP Parse error:  syntax error, unexpected '::' (T_PAAMAYIM_NEKUDOTAYIM) in /home/mehrdadw/public_html/index.php on line 49
+[04-Sep-2021 09:08:39 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'Kernel' (T_STRING), expecting ')' in /home/mehrdadw/public_html/index.php on line 49
+[04-Sep-2021 10:32:37 Asia/Tehran] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/mehrdadw/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/mehrdadw/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/mehrdadw/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(584): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/mehrdadw/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(565): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/mehrdadw/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(476): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#4 /home/mehrdadw/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(354): Illuminate\Foundation\E in /home/mehrdadw/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[02-Nov-2021 10:32:50 Asia/Tehran] PHP Warning:  require(config.php): failed to open stream: No such file or directory in /home/mehrdadw/public_html/registerlink.php on line 2
+[02-Nov-2021 10:32:50 Asia/Tehran] PHP Warning:  require(config.php): failed to open stream: No such file or directory in /home/mehrdadw/public_html/registerlink.php on line 2
+[02-Nov-2021 10:32:50 Asia/Tehran] PHP Fatal error:  require(): Failed opening required 'config.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mehrdadw/public_html/registerlink.php on line 2

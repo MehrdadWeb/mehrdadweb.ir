@@ -1,0 +1,14 @@
+proc /proc proc rw,relatime,gid=2068,hidepid=2 0 0
+sysfs /sys sysfs rw,relatime 0 0
+devtmpfs /dev devtmpfs rw,relatime,size=32841640k,nr_inodes=8210410,mode=755 0 0
+devpts /dev/pts devpts rw,relatime,gid=5,mode=620,ptmxmode=000 0 0
+tmpfs /dev/shm tmpfs rw,relatime 0 0
+/dev/sda3 / ext4 rw,relatime,barrier=1,data=ordered,jqfmt=vfsv0,usrjquota=quota.user 0 0
+/proc/bus/usb /proc/bus/usb usbfs rw,relatime 0 0
+/dev/sda2 /boot ext3 rw,relatime,errors=continue,user_xattr,acl,barrier=1,data=ordered 0 0
+/dev/md126 /home2 ext4 rw,relatime,barrier=1,stripe=8,data=ordered 0 0
+/dev/sdd1 /home3 ext4 rw,relatime,barrier=1,data=ordered,jqfmt=vfsv0,usrjquota=quota.user 0 0
+/dev/sde1 /newhome2 ext4 rw,relatime,barrier=1,data=ordered,jqfmt=vfsv0,usrjquota=quota.user 0 0
+none /proc/sys/fs/binfmt_misc binfmt_misc rw,relatime 0 0
+/dev/sda3 /var/tmp ext4 rw,nosuid,noexec,relatime,barrier=1,data=ordered,jqfmt=vfsv0,usrjquota=quota.user 0 0
+none /var/lve/dbgovernor-shm tmpfs rw,nosuid,nodev,relatime 0 0

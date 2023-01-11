@@ -1,0 +1,278 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202007 will be lost/reset.
+# Last config file used to build this data file was /home/mehrdadw/tmp/awstats/ssl/awstats.mehrdadweb.ir.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2014                
+POS_TIME 2696                
+POS_VISITOR 7186                
+POS_DAY 7496                
+POS_DOMAIN 3386                
+POS_LOGIN 3657                
+POS_ROBOT 3812                
+POS_WORMS 3944                
+POS_EMAILSENDER 4075                
+POS_EMAILRECEIVER 4218                
+POS_SESSION 7677                
+POS_SIDER 7849                
+POS_FILETYPES 4353                
+POS_DOWNLOADS 4507                
+POS_OS 4555                
+POS_BROWSER 4676                
+POS_SCREENSIZE 4846                
+POS_UNKNOWNREFERER 4920                
+POS_UNKNOWNREFERERBROWSER 5007                
+POS_ORIGIN 5089                
+POS_SEREFERRALS 5230                
+POS_PAGEREFS 5374                
+POS_SEARCHWORDS 5592                
+POS_KEYWORDS 5744                
+POS_MISC 2360                
+POS_ERRORS 5803                
+POS_CLUSTER 3513                
+POS_SIDER_404 5931                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20200801083324 147 34157 12184328072323
+FirstTime 20200727162227
+LastTime 20200731233743
+LastUpdate 20200801212242 147 0 146 0 0
+TotalVisits 20                  
+TotalUnique 6                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 6                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+AddToFavourites 0 1 0
+FlashSupport 0 0 0
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+JavaEnabled 0 0 0
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+PDFSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 43 47 23786 3 16 18368
+1 0 0 0 0 0 0
+2 0 0 0 0 0 0
+3 0 0 0 0 0 0
+4 0 0 0 0 0 0
+5 0 0 0 0 0 0
+6 0 0 0 0 0 0
+7 0 0 0 0 0 0
+8 15 22 15421 0 13 11619
+9 56 63 26804 3 37 42476
+10 58 70 35721 1 42 48191
+11 75 146 115949 339 389 446237
+12 32 49 38990 372 402 459976
+13 71 145 1841659 11 88 101022
+14 34 49 246756 6 30 33292
+15 43 57 654150 24 42 44772
+16 52 60 25177 0 13 13776
+17 27 34 18458 2 12 12628
+18 39 49 233474 8 31 34440
+19 158 167 61980 7 116 130871
+20 86 98 248008 0 34 38990
+21 48 59 32210 1 22 24376
+22 116 151 92706 0 53 57400
+23 62 81 50273 0 32 36736
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 4
+ir 1007 1332 3334085
+ro 5 11 423218
+us 2 2 2214
+nl 1 2 2005
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 5
+js 8 936 0 0
+php 668 148403 0 0
+png 18 2957691 0 0
+css 306 274051 0 0
+html 347 380441 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 4
+linuxandroid 15 8
+win8.1 2 2
+linux 12 12
+winxp 1318 993
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 5
+chrome83.0.4103.106 13 6
+chrome40.0.2214.115 2 2
+chrome49.0.2623.112 1318 993
+firefox79.0 12 12
+chrome77.0.3865.116 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 15 15
+From1 0 0
+From2 0 0
+From3 135 135
+From4 865 1197
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+http://cp7.druptime.com:2082 132 132
+http://cp7.druptime.com:2082 3 3
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+404 640 734720
+301 711 814638
+302 3 3369
+500 2 2304
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 15
+/$ul 3 https://mehrdadweb.ir/shortlink.php
+/%3C 5 https://mehrdadweb.ir/
+/styles2.css 231 https://mehrdadweb.ir/shortlinktolonglink.php
+/xxxxx 1 https://mehrdadweb.ir/shortlink.php
+/id=GuhHL 10 https://mehrdadweb.ir/shortlink.php
+/shortlinktolonglink 24 https://mehrdadweb.ir/shortlink.php
+/ 5 http://cp7.druptime.com:2082/
+/$longlink 1 https://mehrdadweb.ir/shortlinktolonglink.php
+/kiki.png 12 https://mehrdadweb.ir/kiana.html
+/$_SESSION[ 7 https://mehrdadweb.ir/shortlinktolonglink.php
+/shortlinktolonglink.php$1shortlinktolonglink.php$1shortlinktolonglink.php$1shortlinktolonglink.php$1shortlinktolonglink.php$1shortlinktolonglink.php$1shortlinktolonglink.php$1shortlinktolonglink.php$1shortlinktolonglink.php$1shortlinktolonglink.php$1short 4 -
+/styles.css 5 https://mehrdadweb.ir/
+/shortlink.php 5 https://mehrdadweb.ir/
+/jquery-3.4.1.min.js 326 https://mehrdadweb.ir/kiana.html
+/google.com 1 https://mehrdadweb.ir/shortlinktolonglink.php
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 6
+151.234.119.252 993 1318 3331067 20200731233743
+2.180.94.35 12 12 2614 20200729154711
+37.120.158.3 5 11 423218 20200728155155
+2.180.252.74 2 2 404 20200729190525
+104.249.46.50 2 2 2214 20200731130936
+79.142.76.175 1 2 2005 20200728175835
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 5
+20200727 4 4 3128 2
+20200728 178 266 2920682 4
+20200729 366 421 393802 4
+20200730 158 183 101343 5
+20200731 309 473 342567 5
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+30s-2mn 4
+30mn-1h 3
+0s-30s 7
+1h+ 6
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 7
+/shortlink.php 361 87584 4 6
+/ 306 338870 16 8
+/shortlinktolonglink.php 304 60468 0 5
+/kiana.html 34 34102 0 1
+/shortlinker.html 7 7469 0 0
+/shortlinktolonglink.php$1shortlinktolonglink.php$1shortlinktolonglink.php$1shortlinktolonglink.php$1shortlinktolonglink.php$1shortlinktolonglink.php$1shortlinktolonglink.php$1shortlinktolonglink.php$1shortlinktolonglink.php$1shortlinktolonglink.php$1shortlinktolonglink.php$1shortlinktolonglink.php$1shortlinktolonglink.php$1shortlinktolonglink.php$1shortlinktolonglink.php$1shortlinktolonglink.php$1shortlinktolonglink.php$1shortlinktolonglink.php$1shortlinktolonglink.php$1shortlinktolonglink.php$1shortlinktolonglink.php$1shortlinktolonglink.php$1shortlinktolonglink.php$1shortlinktolonglink.php$1shortlinktolonglink.php$1shortlinktolonglink.php$1shortlinktolonglink.php$1shortlinktolonglink.php$1shortlinktolonglink.php$1shortlinktolonglink.php$1shortlinktolonglink.php$1shortlinktolonglink.php$1shortlinktolonglink.php$1shortlinktolonglink.php$1shortlinktolonglink.php$1shortlinktolonglink.php$1shortlinktolonglink.php$1shortlinktolonglink.php$1shortlinktolonglink.php$1shortlinktolonglink.php$1shortlinktolonglink.php$1shortlinktolonglink.php$1shortlinktolonglink.php$1shortlinktolonglink.php$1shortlinktolonglink.php$1shortlinktolonglink.php$1shortlinktolonglink.php$1shortlinktolonglink.php$1shortlinktolonglink.php$1shortlinktolonglink.php$1shortlinktolonglink.php$1shortlinktolonglink.php$1shortlinktolonglink.php$1shortlinktolonglink.php$1shortlinktolonglink.php$1shortlinktolonglink.php$1shortlinktolonglink.php$1shortlinktolonglink.php$1shortlinktolonglink.php$1shortlinktolonglink.php$1shortlinktolonglink.php$1shortlinktolonglink.php$1shortlinktolonglink.php$1shortlinktolonglink.phpshortlinktolonglink.phpshortlinktolonglink.phpshortlinktolonglink.phpshortlinktolonglink.phpshortlinktolonglink.phpshortlinktolonglink.phpshortlinktolonglink.phpshortlinktolonglink.phpshortlinktolonglink.phpshortlinktolonglink.phpshortlinktolonglink.phpshortlinktolonglink.phpshortlinktolonglink.phpshortlinktolonglink.phpshortlinktolonglink.phpshortlinktolonglink.phpshortlinktolonglink.phpshortlinktolonglink.phpshortlinktolonglink.phpshortlinktolonglink.php 2 234 0 0
+/shortlinktolonglink.phpshortlinktolonglink.phpshortlinktolonglink.phpshortlinktolonglink.phpshortlinktolonglink.phpshortlinktolonglink.phpshortlinktolonglink.phpshortlinktolonglink.phpshortlinktolonglink.phpshortlinktolonglink.phpshortlinktolonglink.phpshortlinktolonglink.phpshortlinktolonglink.phpshortlinktolonglink.phpshortlinktolonglink.phpshortlinktolonglink.phpshortlinktolonglink.phpshortlinktolonglink.phpshortlinktolonglink.phpshortlinktolonglink.phpshortlinktolonglink.phpshortlink.php 1 117 0 0
+END_SIDER

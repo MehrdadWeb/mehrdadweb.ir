@@ -1,0 +1,692 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202109 will be lost/reset.
+# Last config file used to build this data file was /home/mehrdadw/tmp/awstats/awstats.mehrdadweb.ir.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2010                
+POS_TIME 2688                
+POS_VISITOR 14511               
+POS_DAY 19869               
+POS_DOMAIN 3526                
+POS_LOGIN 4017                
+POS_ROBOT 4172                
+POS_WORMS 4857                
+POS_EMAILSENDER 4988                
+POS_EMAILRECEIVER 5131                
+POS_SESSION 20607               
+POS_SIDER 20815               
+POS_FILETYPES 5266                
+POS_DOWNLOADS 5561                
+POS_OS 5609                
+POS_BROWSER 5831                
+POS_SCREENSIZE 6969                
+POS_UNKNOWNREFERER 7043                
+POS_UNKNOWNREFERERBROWSER 7512                
+POS_ORIGIN 7873                
+POS_SEREFERRALS 8016                
+POS_PAGEREFS 8238                
+POS_SEARCHWORDS 8469                
+POS_KEYWORDS 8621                
+POS_MISC 2351                
+POS_ERRORS 8680                
+POS_CLUSTER 3873                
+POS_SIDER_404 8843                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20211001002136 40 6850 9935369062690
+FirstTime 20210902223857
+LastTime 20210930221524
+LastUpdate 20211001162805 40 0 39 0 0
+TotalVisits 173                 
+TotalUnique 107                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 147                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+AddToFavourites 0 88 0
+DirectorSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+TotalMisc 0 0 0
+JavascriptDisabled 0 0 0
+JavaEnabled 0 0 0
+FlashSupport 0 0 0
+PDFSupport 0 0 0
+RealPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 8 53 6458836 4 9 22772
+1 6 36 3649783 3 11 23291
+2 1 1 12455 1 1 6609
+3 0 0 0 0 0 0
+4 8 32 3528905 2 8 34011
+5 3 3 12364 1 3 237
+6 1 2 14020 3 4 142927
+7 6 7 94479 24 42 94782
+8 53 124 10311852 100 198 887962
+9 61 224 4442908 41 193 2325224
+10 19 73 256482 23 81 3099345
+11 31 115 10465648 33 141 1741996
+12 78 349 17695988 94 325 5145142
+13 112 391 22685082 149 436 7411877
+14 78 244 21066736 40 135 2619297
+15 57 230 23942711 58 192 853971
+16 88 339 23734923 106 364 4109458
+17 44 172 10122116 56 209 1061664
+18 135 337 23798193 83 326 4585618
+19 49 168 14258831 16 79 369722
+20 12 70 7125246 23 91 3532749
+21 33 109 10284849 133 278 4488824
+22 89 127 3737479 156 427 1389552
+23 42 49 454904 29 128 1558798
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 18
+ir 766 2314 132985831
+us 96 385 30389712
+vg 52 176 18971298
+de 42 167 17116464
+ru 13 37 3477985
+nl 6 55 6728883
+ua 6 6 74517
+kz 5 5 37155
+pl 4 18 571132
+fr 4 29 3434996
+tr 4 18 571139
+eu 4 5 57551
+it 3 3 37031
+gb 3 3 24711
+pt 3 26 3351737
+in 2 2 24726
+ee 1 1 12491
+ie 0 5 287431
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 15
+Dalvik/ 54 6706918 20210929212038 0
+link 23 41265 20210923222227 0
+AhrefsBot/ 20 475360 20210930235123 4
+bingbot/ 16 201933 20210928140232 6
+YandexBot/ 16 87029 20210930182643 8
+LinkedInBot/ 12 605195 20210919183808 0
+spider 6 100909 20210909140334 1
+unknown 6 144 20210928195537 6
+bingpreview 4 431596 20210905221728 0
+facebookexternalhit/ 1 12193 20210904154504 0
+SemrushBot/ 1 24 20210907205717 1
+ruby/ 1 12188 20210907113309 0
+no_user_agent 1 0 20210916000231 0
+curl 1 65856 20210915061505 0
+(firefox/)([0-9]\.|[0-1][0]\.) 1 64674 20210909061726 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 12
+php 36 4102 0 0
+ttf 73 11640528 0 0
+Unknown 370 1222785 0 0
+woff 3 299404 0 0
+css 345 6353670 0 0
+js 317 8268874 0 0
+gif 1 0 0 0
+svg 6 13980 0 0
+png 243 1538108 0 0
+jpg 1329 177282274 0 0
+html 442 5213113 0 0
+woff2 90 6317952 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 11
+macosx 5 5
+ios_ipad 4 3
+macosx10 13 13
+win7 6 1
+linux 129 23
+Unknown 76 59
+win10 1556 632
+linuxandroid 1353 263
+linuxubuntu 1 1
+ios_iphone 111 13
+winxp 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 49
+chrome90.0.4430.212 29 3
+firefox91.0 85 12
+chrome66.0.3359.181 1 1
+msie9.0 3 0
+opera77.0.4054.277 9 2
+chrome67.0.3396.87 1 1
+Unknown 72 55
+firefox72.0 2 1
+safari11.0 4 3
+chrome84.0.4147.105 1 1
+chrome91.0.4472.120 29 3
+chrome93.0.4577.62 91 14
+chrome39.0.2171.95 12 12
+mozilla 4 4
+safari13.1.2 55 6
+chrome90.0.4430.210 104 13
+chrome87.0.4280.101 30 4
+chrome91.0.4472.101 9 2
+safari13.0.3 2 1
+chrome77.0.3865.90 28 28
+firefox82.0 1 1
+firefox73.0 1 1
+chrome83.0.4103.116 27 6
+chrome93.0.4577.82 157 50
+firefox92.0 34 5
+opera52.2.2517.140579 26 3
+chrome91.0.4472.114 9 2
+chrome92.0.4515.159 388 222
+firefox59.0 1 1
+chrome5.0.375.99 1 1
+chrome91.0.4472.124 9 2
+chrome42.0.2311.111 615 116
+firefox93.0 37 11
+chrome93.0.4577.63 888 334
+chrome92.0.4515.107 72 16
+chrome87.0.4280.66 27 3
+chrome49.0.2623.75 2 2
+chrome87.0.4280.141 167 42
+chrome93.0.4577.58 28 3
+chrome76.0.3809.71 32 3
+chrome87.0.4280.88 6 2
+chrome83.0.4103.122 26 5
+chrome92.0.4515.166 1 1
+chrome79.0.3945.79 2 0
+chrome56.0.2924.87 27 3
+chrome89.0.4389.105 43 6
+safari14.1.2 54 6
+chrome83.0.4103.61 2 0
+chrome59.0.3071.115 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 9
+adreview/1.0 20210929212115
+WhatsApp/2.21.12.21_A 20210904155157
+WhatsApp/2.21.17.24_A 20210923112551
+cortex/1.0 20210916114948
+colly_-_https://github.com/gocolly/colly/v2 20210904213513
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20210906184258
+\ 20210930093559
+Cpanel-HTTP-Client/1.0 20210930221524
+PostmanRuntime/7.28.4 20210916155800
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 8
+Cpanel-HTTP-Client/1.0 20210930221524
+cortex/1.0 20210916114948
+PostmanRuntime/7.28.4 20210916155800
+colly_-_https://github.com/gocolly/colly/v2 20210904213513
+adreview/1.0 20210929212115
+WhatsApp/2.21.12.21_A 20210904155157
+\ 20210930093559
+WhatsApp/2.21.17.24_A 20210923112551
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 332 367
+From1 5 5
+From2 25 26
+From3 18 18
+From4 634 2839
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 5
+bing 8 8
+yandexcom 6 6
+www_google_com 2 3
+duckduckgo 7 7
+search_yahoo_com 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 3
+http://localhost:8000 15 15
+https://l.instagram.com 2 2
+http://127.0.0.1:64731 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+302 136 27530
+500 127 25307610
+405 2 389960
+404 3150 7390662
+419 2 4624
+206 13 3580158
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 84
+/admin/comments/edit/back/assets/images/faces/face29.jpg 1 http://mehrdadweb.ir/admin/comments/edit/1
+/profile/front/img/apple-touch-icon.png 4 http://mehrdadweb.ir/profile/12
+/wordpress/wp-content/plugins/fighter/shx.php 1 http://simplesite.com
+/admin/back/assets/images/faces/face1.jpg 24 http://mehrdadweb.ir/admin/services
+/images/moon.png 2 http://mehrdadweb.ir/URLShortener
+/back/assets/js/multiselect.js 49 http://mehrdadweb.ir/admin
+/admin/back/assets/images/faces/face29.jpg 24 http://mehrdadweb.ir/admin/portfolios
+/projects/linkshortner(1-1).html 1 http://127.0.0.1:53829/
+/front/js/lightbox.min.map 73 -
+/images/apple-touch-icon.png 1 http://mehrdadweb.ir/URLShortener
+/admin/pages/samples/error-500.html 1 http://mehrdadweb.ir/admin/services
+/ckfinder/core/connector/php/connector.php 1 -
+/front/images/loading.gif 419 http://mehrdadweb.ir/front/css/app.css
+/wp-admins.php 1 http://simplesite.com
+/blackhat.php.suspected 1 http://simplesite.com
+/admin/comments/edit/back/assets/images/faces/face8.jpg 1 http://mehrdadweb.ir/admin/comments/edit/1
+/site.webmanifest 37 http://mehrdadweb.ir/
+/vindex.php 1 http://simplesite.com
+/profile/front/img/favicon-32x32.png 7 http://mehrdadweb.ir/profile/34
+/admin/comments/edit/back/assets/images/faces/face10.jpg 1 http://mehrdadweb.ir/admin/comments/edit/1
+/css/userpanel.css 3 -
+/email/front/img/favicon-96x96.png 9 http://mehrdadweb.ir/email/verify
+/css/mainregister.css 39 http://127.0.0.1:53829/
+/projects/linkshortner(1-2).html 1 http://127.0.0.1:53829/
+/wordpress/wp-content/plugins/kamrul13/k.php 2 http://simplesite.com
+//safari-pinned-tab.svg 1 -
+/admin/pages/samples/login.html 1 http://mehrdadweb.ir/admin/portfolios
+/admin/back/assets/images/faces/face10.jpg 24 http://mehrdadweb.ir/admin/services
+/admin/back/assets/images/faces/face12.jpg 24 http://mehrdadweb.ir/admin/services
+/log.php 1 http://simplesite.com
+/images/bglinkshortener.png 11 http://127.0.0.1:53829/
+/images/sun.png 2 http://mehrdadweb.ir/URLShortener
+/admin/comments/edit/back/assets/images/faces/face12.jpg 1 http://mehrdadweb.ir/admin/comments/edit/1
+/back/assets/css/demo_1/fonts/p30.woff2 34 http://mehrdadweb.ir/back/assets/css/demo_1/style.css
+/biography/biography.html 3 http://127.0.0.1:53829/
+/admin/back/assets/images/faces/face8.jpg 23 http://mehrdadweb.ir/admin/services
+/profile/front/img/favicon-16x16.png 7 http://mehrdadweb.ir/profile/34
+/autoload_classmap.php 1 http://simplesite.com
+/captcha1.php 32 http://127.0.0.1:53829/
+/home.php 308 -
+/front/css/bootstrap.min.css.map 73 -
+/registration/register.php 5 http://127.0.0.1:53829/
+/front/images/close.png 416 http://mehrdadweb.ir/front/css/app.css
+/registration/register.js 120 -
+/admin/comments/edit/back/assets/images/logo.svg 1 http://mehrdadweb.ir/admin/comments/edit/1
+/email/front/img/favicon.png 7 http://mehrdadweb.ir/email/verify
+/main.css 1 -
+/images/refresh_blue.ico 31 http://127.0.0.1:53829/
+/projects/linkshortner(1-3).html 2 -
+/js/ckfinder/core/connector/php/connector.php 1 -
+/article/front/img/favicon-96x96.png 4 http://mehrdadweb.ir/article/%D9%85%D8%B7%D9%84%D8%A8-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-2
+/email/front/img/favicon-32x32.png 9 http://mehrdadweb.ir/email/verify
+/TbNtu 1 -
+/admin/comments/edit/back/assets/images/logo-mini.svg 1 http://mehrdadweb.ir/admin/comments/edit/1
+/email/front/img/apple-touch-icon.png 5 http://mehrdadweb.ir/email/verify
+/wp-admin/network/network.php 1 http://simplesite.com
+/front/images/prev.png 422 http://mehrdadweb.ir/front/css/app.css
+/front/img/URLShortener/favicon-96x96.png 1 http://mehrdadweb.ir/URLShortener
+/photos/1/thumbs/6.jpg 20 http://mehrdadweb.ir/articles
+/article/front/img/favicon-16x16.png 4 http://mehrdadweb.ir/article/%D9%85%D8%B7%D9%84%D8%A8-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-2
+/css/linkshortner(1-3).css 5 http://127.0.0.1:53829/
+/shortlink/shortlink1.php 8 http://localhost:8000/
+/wp-admin/link-edd.php 2 http://simplesite.com
+/jquery-3.5.1.min.js 6 http://mehrdadweb.ir/URLShortener
+/front/img/favicon-96x96.png 50 http://mehrdadweb.ir/
+/front/css/public_html/front/css/fonts/isans.woff 132 http://mehrdadweb.ir/front/css/app.css
+/front/img/team-7.jpg 1 http://mehrdadweb.ir/
+/css/shortlinker.css 1 http://127.0.0.1:53829/
+/09353408373 2 https://www.google.com
+/admin/back/assets/images/logo-mini.svg 24 http://mehrdadweb.ir/admin/services
+/cache/blackhat.php 2 http://simplesite.com
+/admin/pages/samples/error-404.html 1 http://mehrdadweb.ir/admin/services
+/sitemap.xml 1 -
+/email/front/img/favicon-16x16.png 9 http://mehrdadweb.ir/email/verify
+/admin/back/assets/images/logo.svg 24 http://mehrdadweb.ir/admin/portfolios
+/article/front/img/favicon.png 4 http://mehrdadweb.ir/article/%D9%85%D8%B7%D9%84%D8%A8-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-2
+/article/front/img/favicon-32x32.png 4 http://mehrdadweb.ir/article/%D9%85%D8%B7%D9%84%D8%A8-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-2
+/front/css/public_html/front/css/fonts/isans.woff2 132 http://mehrdadweb.ir/front/css/app.css
+/ckeditor/ckfinder/core/connector/php/connector.php 1 -
+/shortlink/linkshortener.html 4 http://127.0.0.1:53829/
+/admin/comments/edit/back/assets/images/faces/face1.jpg 1 http://mehrdadweb.ir/admin/comments/edit/1
+/front/images/next.png 420 http://mehrdadweb.ir/front/css/app.css
+/profile/front/img/favicon-96x96.png 8 http://mehrdadweb.ir/profile/34
+/profile/front/img/favicon.png 6 http://mehrdadweb.ir/profile/34
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 147
+2.183.191.92 262 307 2663058 20210909120913
+2.180.70.215 215 843 53964856 20210911172407
+2.180.78.176 72 266 961368 20210910110919
+2.180.121.151 53 126 7012830 20210905075346
+2.180.187.174 42 157 3572564 20210924173341
+83.123.43.158 30 82 6991902 20210910155010
+2.180.217.236 30 45 804444 20210917082858
+89.32.248.81 28 152 18969762 20210907154859
+89.32.248.82 24 24 1536 20210930221524
+150.136.86.35 12 12 2268 20210903194041
+80.191.240.2 12 54 6567873 20210914155826
+5.125.61.53 11 37 3487611 20210910141308
+83.123.123.46 9 57 6755980 20210909203814
+45.8.204.78 7 7 86314 20210925020839
+185.223.251.36 7 7 87158 20210929044604
+86.93.253.237 6 55 6728883 20210911040659
+188.190.107.163 6 6 74517 20210929043057
+143.244.218.49 6 6 42821 20210907180757
+5.252.78.140 5 5 37155 20210927190935
+31.14.145.11 5 34 3473663 20210904155245
+188.229.64.193 5 30 3414086 20210911141507
+5.124.25.195 4 30 3416272 20210910185840
+5.125.170.60 4 30 3382849 20210919202316
+2.180.140.2 4 29 3380943 20210915080935
+178.62.42.23 4 5 57551 20210905072047
+34.201.4.103 2 2 0 20210914053239
+89.235.76.34 0 5 211317 
+5.126.217.32 3 29 3356145 20210910144908
+66.220.149.1 0 1 1722 
+173.252.127.3 0 1 1722 
+63.117.215.10 2 9 286019 20210910135002
+69.171.251.14 1 1 12452 20210919210310
+173.252.127.19 0 2 95999 
+49.12.126.16 1 1 12361 20210915224643
+66.220.149.10 0 3 245384 
+100.21.218.158 1 1 12361 20210914090800
+64.78.149.164 1 1 87 20210906184258
+66.220.149.118 0 1 101844 
+173.252.87.3 0 1 14962 
+72.22.27.5 2 9 286017 20210911093921
+31.13.103.19 0 1 106575 
+205.169.39.54 0 1 9944 
+66.220.149.16 0 4 183763 
+173.252.127.18 1 6 610850 20210916114911
+69.171.251.17 1 6 528166 20210919210314
+40.77.167.99 0 1 86055 
+31.59.245.128 3 27 3387950 20210904161511
+178.235.206.71 2 9 285565 20210906202206
+5.126.176.33 2 2 24729 20210915080837
+3.120.130.29 1 1 87 20210906184257
+3.216.91.175 3 3 66475 20210930093612
+67.215.19.196 2 9 286220 20210911231624
+193.42.59.205 3 3 37031 20210922074424
+163.172.150.182 1 1 12364 20210912052525
+205.169.39.32 0 1 7749 
+5.126.187.49 1 1 12334 20210910112507
+66.249.93.30 1 1 10527 20210928164649
+209.141.120.133 2 9 286219 20210911160452
+79.127.82.26 3 25 3082548 20210905002917
+40.77.167.6 0 1 820 
+31.13.127.8 0 1 38402 
+173.252.127.20 1 10 2368720 20210916114910
+173.252.95.23 0 2 90109 
+66.220.149.4 1 9 2360228 20210920212009
+24.155.92.37 2 9 286216 20210911162416
+157.55.39.107 0 1 1815 
+5.125.135.83 3 18 2651726 20210924154252
+173.252.127.11 1 2 27326 20210916114905
+31.13.127.28 0 1 36965 
+195.201.230.52 1 1 12457 20210928234359
+194.5.156.78 1 1 66415 20210922222058
+65.155.30.101 0 1 86055 
+79.127.93.186 1 1 12196 20210909112435
+63.88.73.6 2 9 286024 20210910195206
+79.127.87.204 3 28 3389665 20210904191017
+151.241.190.247 1 4 292273 20210904164637
+205.169.39.131 0 2 14407 
+18.116.86.117 1 1 87 20210906184257
+82.102.16.106 3 26 3351737 20210925005509
+69.171.251.11 0 7 2289029 
+69.171.251.12 1 7 409611 20210919210314
+91.184.72.70 3 28 3368385 20210910195952
+205.169.39.41 0 1 7749 
+3.222.207.45 3 3 66475 20210921043646
+31.13.127.17 0 1 90527 
+185.225.210.34 2 3 26628 20210921151954
+5.126.166.165 3 28 3389662 20210904161608
+79.127.80.200 3 4 65163 20210909183320
+18.215.189.184 1 1 66415 20210919161529
+18.221.250.37 1 1 12454 20210928195535
+69.171.251.8 1 8 565011 20210915172631
+87.107.30.131 1 4 2030983 20210912084502
+69.171.251.5 0 2 93804 
+69.171.251.3 0 4 105630 
+51.158.106.99 1 1 12195 20210905110412
+176.235.75.4 2 9 285570 20210907180732
+205.169.39.25 3 26 3372733 20210906185039
+173.252.127.13 0 6 255965 
+34.221.255.206 1 1 87 20210906184258
+64.246.161.30 1 1 12466 20210921234643
+79.127.92.207 1 1 12192 20210909105122
+173.252.127.117 0 1 7749 
+173.252.95.5 0 1 61120 
+143.198.115.59 1 2 66112 20210909200413
+205.169.39.129 0 2 17477 
+50.114.97.15 3 19 2016724 20210927185400
+208.66.246.228 2 9 286218 20210911161831
+159.69.245.159 3 28 3368574 20210911180108
+173.252.127.5 0 1 31366 
+109.199.81.132 2 9 285567 20210906184814
+173.252.79.33 0 1 106575 
+31.13.127.116 0 1 14962 
+69.63.184.2 0 1 27990 
+69.171.251.4 0 3 2025898 
+31.25.93.82 1 1 12365 20210912084452
+94.182.19.163 1 7 364959 20210912083939
+44.236.207.248 3 29 3585901 20210904163740
+5.126.29.85 3 28 3389670 20210904195813
+5.157.51.98 1 1 12491 20210910150807
+216.21.170.198 2 9 286192 20210911141514
+64.203.194.196 2 9 286021 20210910141244
+67.219.201.133 2 9 285568 20210906190246
+66.249.93.1 1 1 10526 20210929180832
+194.5.206.114 3 28 3368581 20210911154237
+5.125.18.139 3 26 3372737 20210909110109
+83.122.193.71 3 28 3368582 20210915213657
+69.171.251.117 1 1 12366 20210915172628
+69.171.251.6 0 2 10764 
+72.200.103.220 1 1 12340 20210904213513
+66.220.149.35 2 9 523956 20210920212015
+212.154.30.36 2 9 285569 20210908015352
+69.171.251.25 1 11 645528 20210915172632
+3.235.154.42 3 3 66415 20210928223934
+66.244.74.70 2 9 286020 20210911093910
+217.219.74.118 2 16 968071 20210912083939
+185.134.22.43 3 26 3351742 20210924013523
+51.15.254.238 1 1 152 20210903140403
+37.129.114.238 3 28 3368582 20210915223306
+173.252.79.19 0 1 144155 
+173.252.127.25 0 1 14962 
+3.238.243.77 2 2 0 20210909210945
+66.220.149.28 0 1 38402 
+103.112.0.192 1 1 12365 20210914214355
+65.154.226.165 0 2 95999 
+151.245.40.44 3 15 119762 20210912132531
+69.171.251.10 0 2 8569 
+173.252.127.4 0 1 14962 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 28
+20210902 5 5 945 1
+20210903 32 32 5752 8
+20210904 64 368 38068725 17
+20210905 14 62 6611439 6
+20210906 103 194 10429446 16
+20210907 52 115 5320199 6
+20210908 156 169 883853 5
+20210909 38 117 10542565 10
+20210910 226 885 34854733 14
+20210911 136 616 56873141 15
+20210912 21 64 3624945 8
+20210914 16 63 6803916 4
+20210915 18 128 14337566 10
+20210916 16 49 4048704 5
+20210917 3 3 37278 3
+20210918 1 1 12375 1
+20210919 44 179 6987079 10
+20210920 5 30 3393339 4
+20210921 8 9 124957 4
+20210922 3 3 91340 3
+20210923 3 3 37378 3
+20210924 10 79 9387155 3
+20210925 5 28 3376664 3
+20210926 2 2 24924 1
+20210927 5 21 2041647 3
+20210928 6 7 116815 4
+20210929 3 4 50411 3
+20210930 19 19 67499 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 7
+2mn-5mn 3
+30mn-1h 7
+30s-2mn 12
+5mn-15mn 9
+0s-30s 131
+15mn-30mn 4
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 73
+/ 442 5213113 135 91
+/front/css/font-awesome/fonts/fontawesome-webfont.woff2 88 5941320 5 24
+/front/css/ionicons/fonts/ionicons.ttf 73 11640528 3 25
+/register 67 301393 2 7
+/login 40 182070 17 3
+/file-manager/tree 36 2268 0 1
+/file-manager/initialize 36 7992 0 0
+/file-manager/content 36 2664 0 0
+/shortlink/shortlink1.php 24 1834 0 1
+/email/verify 23 105963 1 0
+/articles 23 108635 2 1
+/admin/comments 14 132882 0 0
+/admin 11 69278 0 0
+/article/%D9%85%D8%B7%D9%84%D8%A8-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-3 9 46016 0 0
+/article/%D9%85%D8%B7%D9%84%D8%A8-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-2 8 41671 0 0
+/URLShortener 6 41645 0 4
+/article/%D9%85%D8%B7%D9%84%D8%A8-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-4 5 27171 0 0
+/.well-known/acme-challenge/QHuFiz0il7r1AGrFh8k3E1I1pZ02VbXNv0FOAckGIgM 4 348 4 4
+/project-1 3 19496 0 2
+/profile/12 3 13908 0 0
+/admin/categories 2 13696 0 0
+/admin/portfolios 2 13922 0 0
+/back/assets/css/demo_1/fonts/p30.woff 2 43000 0 1
+/profile/32 2 9384 0 1
+/admin/services 2 14938 0 0
+/.well-known/acme-challenge/RGC5718-V1_Y6CTXDBYCTRTZW58C_Q0R 1 64 0 0
+/.well-known/acme-challenge/X0PNG-GNF5GVYV3NF9VYQ1KBYXFXVLG5 1 64 0 0
+/.well-known/acme-challenge/NA3_YQVVEH3LZ5TIICQSEI8_TEITVGWE 1 64 0 0
+/blog/wp-admin/install.php 1 189 0 0
+/web/wp-admin/install.php 1 189 0 0
+/.well-known/acme-challenge/GAV6HM33686K-47BRQX194PWU74ECG9N 1 64 1 0
+/.well-known/acme-challenge/PG5YPFMYAMQYA_H8NMEFWBYZ2IZTRXHB 1 64 0 1
+/wp/wp-admin/install.php 1 189 0 0
+/back/assets/vendors/iconfonts/mdi/fonts/materialdesignicons-webfont.woff 1 256404 0 0
+/admin/comments/edit/1 1 6863 0 0
+/cms/wp-admin/install.php 1 189 0 0
+/oldsite/wp-admin/install.php 1 189 0 1
+/.well-known/acme-challenge/R9MPI1AB1--KNZI3C_EREW0KW3873QY8 1 64 0 1
+/.well-known/acme-challenge/YXTNYYDBN2-MIP6KH1QOH-LS1QV_N38A 1 64 0 0
+/site/wp-admin/install.php 1 189 0 0
+/.well-known/acme-challenge/LFRTUDCGFUUWQNYTZNI00LF50VNWDRDC 1 64 0 0
+/profile/33 1 4685 0 1
+/backup/wp-admin/install.php 1 189 0 0
+/.well-known/acme-challenge/BO34RJK15KOS18CQCLDQ1QDQUQP5R8B2 1 64 0 0
+/profile/13 1 4606 0 1
+/wp-admin/install.php 1 189 1 0
+/profile/20 1 4684 0 1
+/wordpress/wp-admin/install.php 1 189 0 0
+/.well-known/acme-challenge/VKM6VBY_G-97IYPSXMZXOUFARQEHKCF9 1 64 0 0
+/.well-known/acme-challenge/-XOW08EXMOSNLQL39IV-BU0E4SLWMQY1 1 64 0 0
+/commnet/%D9%85%D8%B7%D9%84%D8%A8-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-2 1 0 0 0
+/.well-known/acme-challenge/4NS7VU5U9M4VG46BH4M-Q0PY_FSEFVWM 1 64 0 0
+/back/assets/vendors/iconfonts/mdi/fonts/materialdesignicons-webfont.woff2 2 376632 0 0
+/.well-known/acme-challenge/1Z5UO9GL2N4444IHHV8II8U58NJ6R5PA 1 64 0 0
+/.well-known/acme-challenge/5OA-EDNVOZL35SCWBYL_OFWWN_20MREM 1 64 0 0
+/.well-known/acme-challenge/HGIL2R8IV-OU78NWHJPA66YT4L-J3SF0 1 64 1 0
+/commnet/%D9%85%D8%B7%D9%84%D8%A8-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-3 2 0 0 0
+/.well-known/acme-challenge/U48Z_FPBPP1BG2CC5PQC-RV6E_8DCY30 1 64 1 0
+/.well-known/acme-challenge/X6JEMCZMQOC54XRAXUBKO91U_65I9Z-Y 1 64 0 1
+/.well-known/acme-challenge/OQEGM0JD3GSIK962V9_P6HPZF69_EPFZ 1 64 0 0
+/admin/articles 2 14909 0 0
+/profile/34 2 9210 0 0
+/.well-known/acme-challenge/CUHWEFLR4RNFLFZGHBADFKIXL6KF-3E2 1 64 0 0
+/.well-known/acme-challenge/HCR4SJZB0A5B8DC9-SF5YCB_49ZNWNT- 1 64 0 0
+/.well-known/acme-challenge/QNOCUKIGPSZOXX0U1NLI0WLXNYE86ARG 1 64 0 0
+/test/wp-admin/install.php 1 189 0 0
+/.well-known/acme-challenge/DNONRYJ02ZKLD7722L80X74P62JKBC_F 1 64 0 0
+/.well-known/acme-challenge/QBH6NBK3T3VDB28V2218FVDCBSA2_J0Q 1 64 0 0
+/profile/14 1 4602 0 1
+/.well-known/acme-challenge/F1XNXR81D-L1ZG_GC13_-E356W7U6CIZ 1 64 0 0
+/new/wp-admin/install.php 1 189 0 0
+/old/wp-admin/install.php 1 189 0 0
+/admin/users 2 16350 0 0
+END_SIDER

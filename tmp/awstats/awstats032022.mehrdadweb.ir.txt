@@ -1,0 +1,328 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202203 will be lost/reset.
+# Last config file used to build this data file was /home/mehrdadw/tmp/awstats/awstats.mehrdadweb.ir.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2010                
+POS_TIME 2682                
+POS_VISITOR 7045                
+POS_DAY 8229                
+POS_DOMAIN 3305                
+POS_LOGIN 3646                
+POS_ROBOT 3801                
+POS_WORMS 4268                
+POS_EMAILSENDER 4399                
+POS_EMAILRECEIVER 4542                
+POS_SESSION 8600                
+POS_SIDER 8757                
+POS_FILETYPES 4677                
+POS_DOWNLOADS 4792                
+POS_OS 4840                
+POS_BROWSER 5039                
+POS_SCREENSIZE 5540                
+POS_UNKNOWNREFERER 5614                
+POS_UNKNOWNREFERERBROWSER 5775                
+POS_ORIGIN 5931                
+POS_SEREFERRALS 6063                
+POS_PAGEREFS 6238                
+POS_SEARCHWORDS 6435                
+POS_KEYWORDS 6587                
+POS_MISC 2346                
+POS_ERRORS 6646                
+POS_CLUSTER 3502                
+POS_SIDER_404 6736                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20220607144602 1 0 11811686784274
+FirstTime 20220301171152
+LastTime 20220316105805
+LastUpdate 20220608144701 1 0 0 0 0
+TotalVisits 30                  
+TotalUnique 29                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 29                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+FlashSupport 0 0 0
+DirectorSupport 0 0 0
+JavaEnabled 0 0 0
+PDFSupport 0 0 0
+QuickTimeSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+AddToFavourites 0 3 0
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 9 9 37953 16 19 22951
+1 0 0 0 8 10 13898
+2 9 9 37953 14 16 21399
+3 3 3 16201 3 5 6949
+4 0 0 0 5 6 14386
+5 0 0 0 5 8 15752
+6 1 1 4217 3 3 5583
+7 3 3 16054 4 4 2732
+8 2 2 15240 9 10 17301
+9 0 0 0 0 0 0
+10 5 5 27724 5 6 4098
+11 1 1 7620 4 4 6266
+12 8 8 33736 9 10 10364
+13 1 1 4217 3 3 8986
+14 0 0 0 6 8 19600
+15 0 0 0 1 2 4900
+16 0 0 0 1 1 683
+17 2 2 15387 2 2 1366
+18 8 8 33422 13 17 39752
+19 2 2 11837 6 7 11849
+20 1 1 4217 3 4 9669
+21 4 4 20271 10 16 32132
+22 2 2 7620 4 5 6266
+23 0 0 0 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 10
+dk 24 24 101208
+us 23 23 124028
+ua 4 4 16054
+bg 2 2 8434
+ir 2 2 8434
+id 2 2 8434
+de 1 1 7620
+jp 1 1 7620
+ie 1 1 4217
+gb 1 1 7620
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 9
+bingbot/ 21 88557 20220309012828 0
+YandexBot/ 6 35511 20220316083351 0
+AhrefsBot/ 4 15612 20220315043226 0
+LinkedInBot/ 3 12651 20220309183041 0
+facebookexternalhit/ 3 12651 20220314044932 0
+Googlebot/ 2 8434 20220310192807 0
+crawl 1 4217 20220314040721 0
+Who\.is[\x20]Bot 1 7620 20220311200239 0
+no_user_agent 1 7620 20220312132309 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 3
+cgi 59 285235 0 0
+ir 1 4217 0 0
+Unknown 1 4217 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 10
+win10 35 35
+android 1 1
+linuxubuntu 1 1
+macosx14 2 2
+macosx10 1 1
+ios_iphone 2 2
+android10 2 2
+macosx15 5 5
+macosx11 3 3
+Unknown 9 9
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 21
+chrome87.0.4280.141 5 5
+firefox59.0 1 1
+chrome76.0.3809.71 1 1
+chrome81.0.4044.138 1 1
+firefox94.0 1 1
+chrome96.0.4664.104 1 1
+chrome98.0.4758.101 2 2
+firefox98.0 1 1
+chrome98.0.4758.102 2 2
+Unknown 9 9
+chrome48.0.2564.109 1 1
+chrome43.0.2376.69 2 2
+chrome85.0.4183.102 25 25
+chrome61.0.3163.100 1 1
+chrome87.0.4280.88 1 1
+chrome80.0.3987.132 1 1
+safari14.1.2 1 1
+safari15.3 1 1
+chrome74.0.3729.169 1 1
+chrome77.0.3865.90 2 2
+chrome58.0.3029.110 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+got_(https://github.com/sindresorhus/got) 20220315102720
+\ 20220315033202
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+got_(https://github.com/sindresorhus/got) 20220315102720
+\ 20220315033202
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 50 50
+From1 0 0
+From2 2 2
+From3 4 4
+From4 5 5
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+yandexcom 1 1
+www_bing_com 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+http://zangam.ir 2 2
+https://l.instagram.com 2 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 1
+302 121 81960
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 0
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 29
+212.237.120.139 16 16 67472 20220313124224
+137.184.162.122 8 8 33422 20220313181612
+212.237.120.224 8 8 33736 20220316004358
+102.25.236.145 2 2 8434 20220307031547
+95.135.89.137 2 2 7620 20220309223340
+149.62.202.149 2 2 8434 20220301212009
+3.239.22.249 1 1 7767 20220302173748
+3.236.199.106 1 1 7620 20220301171152
+65.21.165.219 1 1 3903 20220315102720
+69.171.251.6 1 1 4217 20220308130915
+100.27.36.23 1 1 7620 20220306113226
+3.238.18.194 1 1 7620 20220303072540
+44.195.61.51 1 1 7620 20220305085235
+31.13.127.43 1 1 4217 20220309191617
+217.9.19.110 1 1 4217 20220316103003
+5.236.113.138 1 1 4217 20220311200216
+54.183.134.67 1 1 4217 20220315073256
+44.192.103.156 1 1 7767 20220311103735
+51.89.190.204 1 1 7620 20220310190231
+118.27.99.88 1 1 7620 20220316105805
+217.9.19.250 1 1 4217 20220316103003
+64.246.161.190 1 1 4217 20220302025538
+5.125.246.138 1 1 4217 20220302075451
+20.109.185.147 1 1 4217 20220310003906
+3.238.185.134 1 1 7767 20220315033202
+104.36.19.242 1 1 4217 20220314213600
+44.192.40.122 1 1 7620 20220312210446
+65.154.226.168 1 1 4217 20220313061525
+193.30.121.226 1 1 7620 20220313085248
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 15
+20220301 3 3 16054 2
+20220302 3 3 16201 3
+20220303 1 1 7620 1
+20220305 1 1 7620 1
+20220306 1 1 7620 1
+20220307 2 2 8434 1
+20220308 1 1 4217 1
+20220309 11 11 45573 3
+20220310 2 2 11837 2
+20220311 2 2 11984 2
+20220312 1 1 7620 1
+20220313 18 18 78995 4
+20220314 1 1 4217 1
+20220315 3 3 15887 3
+20220316 11 11 49790 4
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+30s-2mn 2
+0s-30s 28
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 3
+/cgi-sys/suspendedpage.cgi 59 285235 30 30
+/cgi-sys/suspendedpage.cgi/admin 1 4217 0 0
+/cgi-sys/suspendedpage.cgi/mehrdadweb.ir 1 4217 0 0
+END_SIDER

@@ -1,0 +1,306 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202009 will be lost/reset.
+# Last config file used to build this data file was /home/mehrdadw/tmp/awstats/awstats.mehrdadweb.ir.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2010                
+POS_TIME 2688                
+POS_VISITOR 6389                
+POS_DAY 7364                
+POS_DOMAIN 3252                
+POS_LOGIN 3509                
+POS_ROBOT 3664                
+POS_WORMS 3796                
+POS_EMAILSENDER 3927                
+POS_EMAILRECEIVER 4070                
+POS_SESSION 7772                
+POS_SIDER 7929                
+POS_FILETYPES 4205                
+POS_DOWNLOADS 4350                
+POS_OS 4398                
+POS_BROWSER 4570                
+POS_SCREENSIZE 4888                
+POS_UNKNOWNREFERER 4962                
+POS_UNKNOWNREFERERBROWSER 5066                
+POS_ORIGIN 5165                
+POS_SEREFERRALS 5298                
+POS_PAGEREFS 5442                
+POS_SEARCHWORDS 5590                
+POS_KEYWORDS 5742                
+POS_MISC 2352                
+POS_ERRORS 5801                
+POS_CLUSTER 3365                
+POS_SIDER_404 5890                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20201001112622 16 3127 11420336516250
+FirstTime 20200902160000
+LastTime 20200930205447
+LastUpdate 20201001193102 16 0 15 0 0
+TotalVisits 33                  
+TotalUnique 23                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 24                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+TotalMisc 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+RealPlayerSupport 0 0 0
+FlashSupport 0 0 0
+AddToFavourites 0 0 0
+DirectorSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 2 3 2296
+1 0 0 0 0 1 1148
+2 6 6 28656 0 0 0
+3 0 0 0 0 0 0
+4 0 0 0 0 0 0
+5 0 0 0 0 0 0
+6 0 0 0 0 0 0
+7 1 1 2364 0 0 0
+8 1 1 6395 0 1 1148
+9 0 0 0 0 0 0
+10 2 7 1143615 0 5 3444
+11 3 3 4954 0 3 0
+12 0 0 0 0 0 0
+13 4 4 25580 0 0 0
+14 5 5 27944 0 3 2296
+15 1 1 2364 0 1 0
+16 3 3 12510 1 1 1148
+17 0 0 0 0 1 1148
+18 5 10 1149956 1 5 2296
+19 0 0 0 0 2 0
+20 7 9 18470 1 7 3444
+21 1 1 2364 0 0 0
+22 3 4 7184 0 4 3444
+23 3 3 4954 1 4 2296
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 3
+us 43 46 154808
+ir 1 6 1141251
+de 1 6 1141251
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 5
+css 3 5490 0 0
+php 7 19631 0 0
+html 38 137891 0 0
+png 6 2273930 0 0
+js 4 368 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 9
+Unknown 7 7
+win10 6 1
+macosx10 9 9
+winxp 6 1
+macosx8 1 1
+win8.1 1 0
+linux 23 21
+linuxubuntu 4 4
+macosx 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 13
+chrome26.0.1410.65 1 1
+chrome52.0.2743.116 8 8
+firefox36.0 1 0
+Unknown 7 7
+chrome49.0.2623.75 16 16
+firefox80.0 6 1
+firefox47.0 1 1
+chrome79.0.3945.88 1 1
+chrome49.0.2623.112 6 1
+firefox59.0 1 1
+chrome58.0.3029.110 1 1
+chrome85.0.4183.102 5 3
+chrome66.0.3359.181 4 4
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+\ 20200925024458
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+\ 20200925024458
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 39 40
+From1 0 0
+From2 0 0
+From3 0 0
+From4 6 18
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 1
+404 21 24108
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 7
+/wp-admin/admin-ajax.php 1 mehrdadweb.ir
+/wp-config.php.1 1 mehrdadweb.ir
+/shortlinker.html 1 -
+/jquery-3.4.1.min.js 4 -
+/kiana.html 1 -
+/robots.txt 11 -
+/contact.php 2 http://mehrdadweb.ir
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 24
+66.249.93.208 5 5 11820 20200928201514
+3.92.251.69 5 5 22261 20200921024327
+66.249.93.209 4 4 7318 20200921204557
+13.59.19.91 3 5 9014 20200930205447
+66.249.93.210 3 3 2816 20200914110110
+23.108.4.175 2 2 6115 20200928163806
+34.209.128.209 2 2 12790 20200928132342
+34.211.60.22 2 2 12790 20200907142954
+34.208.126.180 2 2 12790 20200921132653
+18.237.155.138 2 2 12790 20200914142902
+104.223.42.115 2 2 6115 20200928184109
+66.249.93.206 2 2 4728 20200929111349
+52.32.220.14 1 1 2364 20200904223801
+34.201.48.77 1 1 6395 20200923080421
+64.246.165.190 1 1 2364 20200920233902
+5.232.51.90 1 6 1141251 20200913100901
+3.231.167.88 1 1 6395 20200925024458
+34.238.127.208 1 1 6395 20200902160000
+167.71.144.54 1 1 2364 20200922070333
+176.65.177.230 1 6 1141251 20200930181300
+66.249.93.98 1 1 2364 20200916222156
+54.189.85.67 1 1 2364 20200926220612
+66.249.93.207 1 1 2364 20200926204412
+35.162.94.186 0 1 92 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 17
+20200902 3 3 8985 3
+20200904 1 2 2456 1
+20200907 2 2 12790 1
+20200912 2 2 2590 2
+20200913 2 7 1143615 2
+20200914 4 4 15380 3
+20200916 1 1 2364 1
+20200920 1 1 2364 1
+20200921 8 8 37415 3
+20200922 2 2 4728 2
+20200923 2 2 8759 2
+20200925 2 2 8759 2
+20200926 2 2 4728 2
+20200927 1 1 2364 1
+20200928 7 7 27384 4
+20200929 1 1 2364 1
+20200930 4 11 1150265 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+0s-30s 32
+30s-2mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 6
+/ 36 133476 30 27
+/registration/register.php 3 18953 0 2
+/shortlink/shortlinktolonglink.php 3 678 3 3
+/kiana/kiana.html 1 2074 0 1
+/registration/forget.php 1 0 0 0
+/shortlink/shortlinker.html 1 2341 0 0
+END_SIDER

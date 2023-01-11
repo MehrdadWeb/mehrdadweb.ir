@@ -1,0 +1,528 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202104 will be lost/reset.
+# Last config file used to build this data file was /home/mehrdadw/tmp/awstats/awstats.mehrdadweb.ir.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2010                
+POS_TIME 2682                
+POS_VISITOR 10314               
+POS_DAY 14987               
+POS_DOMAIN 3469                
+POS_LOGIN 3803                
+POS_ROBOT 3958                
+POS_WORMS 4307                
+POS_EMAILSENDER 4438                
+POS_EMAILRECEIVER 4581                
+POS_SESSION 15661               
+POS_SIDER 15870               
+POS_FILETYPES 4716                
+POS_DOWNLOADS 4955                
+POS_OS 5003                
+POS_BROWSER 5194                
+POS_SCREENSIZE 5872                
+POS_UNKNOWNREFERER 5946                
+POS_UNKNOWNREFERERBROWSER 6086                
+POS_ORIGIN 6221                
+POS_SEREFERRALS 6364                
+POS_PAGEREFS 6592                
+POS_SEARCHWORDS 6740                
+POS_KEYWORDS 6892                
+POS_MISC 2346                
+POS_ERRORS 6951                
+POS_CLUSTER 3659                
+POS_SIDER_404 7087                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20210501104657 1 0 13101269649810
+FirstTime 20210401031319
+LastTime 20210430033344
+LastUpdate 20210501180055 1 0 0 0 0
+TotalVisits 129                 
+TotalUnique 118                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 118                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+WindowsMediaPlayerSupport 0 0 0
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 0 0
+TotalMisc 0 0 0
+QuickTimeSupport 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+JavaEnabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 5 19 130344 4 8 19849
+1 5 5 49342 8 29 120519
+2 3 3 47503 5 6 7590
+3 8 8 129038 4 6 37150
+4 5 5 35355 1 1 708
+5 3 3 19002 8 13 60126
+6 1 1 33361 8 13 89437
+7 7 7 84090 5 7 36049
+8 54 286 345284 4 7 74325
+9 31 128 202248 7 22 111516
+10 279 1116 1915646 6 76 94990
+11 511 1786 2721797 6 158 111652
+12 336 1283 1375316 6 85 74877
+13 284 884 1445640 17 71 99058
+14 204 556 1003256 4 47 77099
+15 208 509 1026693 6 60 107488
+16 311 753 690102 16 94 63772
+17 249 618 651210 14 67 68960
+18 484 1604 2558929 7 66 94617
+19 118 438 2068139 11 41 46348
+20 158 854 1722502 6 23 32301
+21 112 375 1317502 4 22 19619
+22 125 300 938042 9 49 126763
+23 11 16 77701 12 26 59057
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 8
+ir 3358 11302 17715383
+us 109 130 1385127
+de 33 111 1427270
+es 4 5 18106
+gb 4 5 16706
+ie 2 2 14142
+fr 1 1 6327
+ua 1 1 4981
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 6
+bingbot/ 44 464824 20210428010027 0
+AhrefsBot/ 32 173773 20210430163019 0
+YandexBot/ 14 95327 20210430033457 0
+spider 7 83990 20210408223429 0
+no_user_agent 3 95582 20210427061459 0
+Googlebot/ 1 7071 20210424101655 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+js 1492 3545798 0 0
+html 812 4352233 0 0
+css 1068 525391 0 0
+jpg 58 15590 0 0
+php 2567 4571851 0 0
+woff 131 516800 0 0
+ico 402 25300 0 0
+Unknown 2 44 0 0
+png 5025 7035035 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 9
+macosx10 8 8
+win10 150 68
+winxp 7432 2567
+linux 196 84
+linuxandroid 3707 735
+Unknown 25 25
+win7 17 3
+macosx 21 21
+macosx8 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 28
+chrome80.0.3987.99 16 2
+firefox88.0 180 65
+edge18 19 2
+chrome26.0.1410.65 1 1
+chrome77.0.3865.90 71 71
+chrome74.0.3729.169 1 1
+chrome89.0.4389.82 1 1
+firefox68.0 1 1
+chrome74.0.3729.131 1 1
+chrome86.0.4240.193 14 3
+chrome89.0.4389.90 2 2
+chrome74.0.3729.157 1 1
+chrome89.0.4389.114 25 6
+firefox59.0 2 2
+chrome84.0.4147.135 23 7
+chrome46.0.2490.76 2985 522
+chrome48.0.2564.23 1 0
+chrome89.0.4389.105 39 10
+chrome79.0.3945.136 12 2
+Unknown 25 25
+chrome90.0.4430.85 36 12
+chrome49.0.2623.112 7432 2567
+chrome88.0.4324.96 1 1
+android 51 10
+chrome52.0.2743.116 6 6
+chrome85.0.4183.83 7 1
+firefox82.0 1 1
+chrome42.0.2311.111 603 189
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+WhatsApp/2.21.6.17_A 20210408131609
+\ 20210428081452
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+WhatsApp/2.21.6.17_A 20210408131609
+\ 20210428081452
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 274 276
+From1 0 0
+From2 59 59
+From3 0 0
+From4 3179 11222
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 5
+yandexcom 18 18
+www_google_com 1 1
+duckduckgo 8 8
+bing 16 16
+search_yahoo_com 16 16
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+302 27 306
+403 1 699
+301 7 4949
+206 8 114753
+404 837 592596
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 59
+/user/index.js 14 http://www.mehrdadweb.ir/user/usertable.php
+/docindex.php 1 http://simplesite.com
+/images/footer.png 2 http://mehrdadweb.ir/biography/biography.css
+/a.php 1 http://simplesite.com
+/rules.php 1 http://mehrdadweb.ir/registration/register.php
+/shortlink/jquery-3.5.1.min.js 17 http://mehrdadweb.ir/shortlink/linkshortener.html
+/home2.html/ 2 -
+/wp-content/themes/alternate-lite/inc/network.php 2 http://simplesite.com
+/asset-manifest.json 1 http://mehrdadweb.ir/
+/user/use 1 -
+/registration/afterregister.php 2 -
+/adminer.php 1 -
+/adm.php 1 -
+/xml.php 2 http://simplesite.com
+/m.php 1 http://simplesite.com
+/projects/jquery-3.5.1.min.js 15 http://mehrdadweb.ir/projects/linkshortner(1-1).html
+/wp-content/plugins/background-image-cropper/wp-console.php 3 http://simplesite.com
+/1.php 1 http://simplesite.com
+/register.php 3 http://mehrdadweb.ir/
+/laravel/_ignition/health-check/ 1 -
+/images/input-tick.png 51 http://mehrdadweb.ir/registration/forget.php
+/Adminer.php 1 -
+/user/jquery-3.5.1.min.js 13 http://www.mehrdadweb.ir/user/usertable.php
+/biography/index.js 4 http://mehrdadweb.ir/biography/biography.html
+/wp-includes/widgets/class-wp-widget-header.php 1 http://simplesite.com
+//safari-pinned-tab.svg 1 -
+/cron.php 1 http://simplesite.com
+/wp-content/wp-info.php 1 http://simplesite.com
+/login/do_login.php 1 http://mehrdadweb.ir/user/userpanel.php/
+/projects/index.js 11 http://mehrdadweb.ir/projects/linkshortner(1-1).html
+/wp-content/wp-muen.php 1 http://simplesite.com
+/simple.php5.suspected 1 http://simplesite.com
+/images/favicon-96x96.png 51 http://mehrdadweb.ir/
+/plugins/system/xtp.php 1 http://simplesite.com
+/images/moon.png 2 http://mehrdadweb.ir/user/userpanel.php/
+/wp-content/uploads/404.php 2 http://simplesite.com
+/.info.php 1 http://simplesite.com
+/ups.php 4 http://simplesite.com
+/55index.php 1 http://simplesite.com
+/site.webmanifest 3 http://mehrdadweb.ir/user/userpanel.php/
+/modules/mod_simplefileuploadv1.3/elements/w.php 1 http://simplesite.com
+/registration/forget.css 8 http://mehrdadweb.ir/registration/forgetpass.php
+/wp-admin/css/common.php 1 http://simplesite.com
+/google-site-verification-content-fpk8ez12pdbewljjo9xhbxlv7lhxa9nplpcode87.php 1 http://simplesite.com
+/sql.php 1 -
+/log.php 1 http://simplesite.com
+/wp-admin/includes/class-wp-filesystem-import.php 3 http://simplesite.com
+/class-widget-archives.php 1 http://simplesite.com
+/registration/jquery-3.5.1.min.js 504 http://mehrdadweb.ir/registration/forget.php
+/cache/blackhat.php.suspected 1 http://simplesite.com
+/safari-pinned-tab.svg 1 -
+/lsn_an.php|root 1 http://simplesite.com
+/_ignition/health-check/ 1 -
+/registration/index.js 4 http://mehrdadweb.ir/registration/register.php
+/robots.txt 78 -
+/biography/jquery-3.5.1.min.js 2 http://mehrdadweb.ir/biography/biography.html
+/shx.php 1 http://simplesite.com
+/modules/mod_footer/tmpl/index.php 1 http://simplesite.com
+/css.php 2 http://simplesite.com
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 118
+31.14.156.11 391 799 845091 20210404174216
+31.14.148.7 330 1936 2889502 20210407211746
+31.14.150.18 315 705 657198 20210405151012
+31.14.151.3 315 880 910200 20210402115225
+31.14.148.24 313 1734 1974502 20210407141756
+31.14.145.28 290 543 686456 20210405224854
+31.14.148.4 255 1116 2098046 20210408131609
+31.14.150.26 233 564 417478 20210405172732
+31.14.155.3 209 619 650498 20210403152819
+31.14.147.21 197 740 916696 20210402193431
+31.14.150.2 161 330 419985 20210404220917
+31.14.148.11 135 596 989378 20210406134855
+31.14.148.10 49 243 270285 20210406183232
+31.14.95.32 39 101 1444047 20210405195019
+31.14.153.25 36 119 80323 20210402132306
+144.76.38.100 23 62 924243 20210407212609
+31.14.148.25 17 42 395821 20210406200226
+31.14.158.19 14 32 219187 20210411132515
+5.125.44.3 12 36 620898 20210424225208
+151.242.123.99 11 40 194669 20210409111935
+31.14.156.25 9 14 15891 20210403233008
+31.14.155.7 7 18 12527 20210403162500
+31.14.151.11 7 24 130212 20210401182126
+5.125.19.70 6 25 587865 20210408150113
+18.202.233.120 4 4 28284 20210419133441
+80.228.66.196 1 7 173943 20210402112228
+18.203.85.165 3 3 21213 20210418080216
+34.245.183.201 3 3 21213 20210412162240
+54.74.165.106 1 1 7071 20210421041913
+34.237.0.27 1 1 33361 20210409073418
+34.244.22.3 1 1 7071 20210426040146
+54.78.193.127 1 1 7071 20210430033344
+54.189.101.169 2 2 28513 20210412141406
+31.14.158.4 2 16 109131 20210413193412
+176.34.129.60 2 2 14142 20210424221454
+94.101.43.5 2 19 98031 20210405164436
+34.240.28.128 1 1 7071 20210430033519
+54.78.164.141 1 1 7071 20210412162219
+54.83.93.201 1 1 28860 20210406070022
+34.250.252.235 2 2 12680 20210406132246
+54.77.115.37 1 1 6334 20210404083026
+5.125.92.176 2 16 109131 20210428003045
+64.246.165.210 1 1 6327 20210401203357
+64.246.187.42 1 1 7071 20210421164927
+34.241.219.81 2 2 12668 20210403054141
+34.242.246.210 1 1 6340 20210405111337
+18.203.187.180 2 2 14142 20210417010013
+34.253.206.159 1 1 7071 20210427091831
+52.30.177.122 3 3 19020 20210405111200
+3.249.119.12 3 3 21213 20210410093134
+34.240.3.174 2 2 14142 20210428193411
+82.135.118.6 1 1 0 20210405154916
+207.237.69.72 2 12 69113 20210409111215
+94.130.104.19 1 1 4981 20210403125708
+185.46.139.6 1 7 173943 20210402145928
+34.242.152.47 1 1 6340 20210406131909
+92.226.2.4 1 1 138 20210405145604
+34.242.22.162 2 2 14142 20210415120700
+18.205.6.7 1 1 33361 20210428081452
+3.250.201.30 2 2 14142 20210419132847
+172.255.48.136 3 14 77906 20210422190420
+212.6.83.5 1 1 22 20210405141440
+18.202.233.161 1 1 7071 20210409023750
+82.223.20.214 4 5 18106 20210407220734
+99.79.49.193 1 1 0 20210412214936
+44.192.8.49 1 1 33361 20210424154818
+3.80.144.181 1 1 33361 20210417030235
+34.238.27.183 1 1 28449 20210401031319
+3.235.240.114 1 1 28860 20210405203851
+54.194.156.228 1 1 7071 20210411134536
+31.14.146.2 2 13 70366 20210422220209
+54.229.115.29 2 2 14142 20210421042424
+18.221.149.7 1 1 7071 20210423193939
+34.218.204.72 1 1 7071 20210426014838
+92.226.0.4 1 1 22 20210405164955
+3.249.117.25 2 2 12654 20210402034544
+34.253.193.153 2 2 14142 20210413193235
+3.235.134.229 1 1 33361 20210414155841
+3.93.33.138 1 1 33361 20210426230516
+34.244.128.13 1 1 7071 20210411134751
+3.239.226.252 1 1 33361 20210411030100
+3.239.149.184 1 1 28860 20210407012333
+18.203.83.252 1 1 7071 20210427092005
+54.189.230.128 1 1 7071 20210426221824
+54.194.189.68 2 2 14142 20210422125617
+34.241.94.163 1 1 6340 20210407173137
+34.244.222.160 2 2 14142 20210417005821
+34.240.43.173 1 1 6334 20210403053958
+3.236.155.252 1 1 33361 20210419144422
+54.236.60.129 1 1 33361 20210424180207
+34.244.215.245 3 3 21213 20210415120616
+54.78.165.217 1 1 7071 20210418080035
+34.221.210.34 1 1 0 20210408223425
+3.236.167.234 1 1 28449 20210401231552
+85.159.211.56 4 5 16706 20210407212932
+54.78.202.226 1 1 7071 20210423173120
+18.213.116.10 1 1 33361 20210418062737
+157.90.231.139 1 1 4946 20210407203119
+3.215.184.187 2 2 66722 20210422103336
+62.210.172.16 1 1 6327 20210401070832
+34.244.174.42 2 2 14142 20210426040313
+34.231.255.227 1 1 33361 20210410184136
+157.90.231.134 1 1 5461 20210412091245
+18.237.168.204 2 2 31169 20210419141957
+18.237.247.5 2 2 42588 20210405140705
+34.250.131.185 1 1 6340 20210407172509
+54.217.130.111 1 1 6340 20210407172915
+31.14.156.23 1 1 0 20210404014109
+54.170.14.202 1 1 6334 20210404082922
+18.203.247.57 1 1 7071 20210419133149
+54.203.14.140 1 1 6340 20210407014807
+18.202.81.67 1 1 6340 20210406132045
+54.78.170.195 1 1 7071 20210409024119
+34.242.82.47 1 1 7071 20210423173151
+62.214.62.36 2 12 56928 20210405135630
+3.239.198.91 1 1 33361 20210412135142
+34.245.195.144 1 1 7071 20210410092650
+34.248.17.132 1 1 6334 20210404083043
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 26
+20210401 217 535 547747 7
+20210402 346 1248 1919776 7
+20210403 229 655 702899 6
+20210404 556 1133 1284078 8
+20210405 892 1955 3457128 17
+20210406 206 886 1709704 7
+20210407 680 3748 5882225 13
+20210408 262 1142 2685911 3
+20210409 16 55 311285 5
+20210410 5 5 61645 3
+20210411 17 35 266690 4
+20210412 9 9 95619 6
+20210413 4 18 123273 2
+20210414 1 1 33361 1
+20210415 5 5 35355 2
+20210417 5 5 61645 3
+20210418 5 5 61645 3
+20210419 10 10 114027 5
+20210421 4 4 28284 3
+20210422 9 31 229136 5
+20210423 3 3 21213 3
+20210424 16 40 701762 4
+20210426 6 6 68716 5
+20210427 2 2 14142 2
+20210428 5 19 156634 3
+20210430 2 2 14142 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+30mn-1h 8
+1h+ 14
+5mn-15mn 3
+15mn-30mn 4
+0s-30s 77
+2mn-5mn 11
+30s-2mn 12
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 27
+/registration/register.php 932 2900603 7 7
+/home.php 850 688475 6 27
+/captcha1.php 511 150644 3 4
+/user/userpanel.php/ 445 2624321 7 0
+/ 282 1647052 98 79
+/registration/forget.php 146 646528 2 0
+/font/DroidNaskh-Regular.woff 131 516800 0 2
+/home2.php/ 71 7240 2 2
+/home2.php 25 7189 1 1
+/registration/sendemail.php 25 8177 0 1
+/registration/forgetpass.php 23 106039 2 2
+/login/dologin.php 14 17054 0 0
+/captcha/captcha1.php 10 360 0 1
+/user/usertable.php 7 40886 0 0
+/shortlink/shortlinktolonglink.php 7 1280 0 0
+/shortlink/shortlink1.php 5 400 0 0
+/registration/register1.php 5 218 0 0
+/shortlink/shortlink.php 5 545 0 0
+/shortlink/linkshortener.html 4 34672 0 1
+/projects/linkshortner(1-2).html 2 8494 0 0
+/registerlink.php/ 2 44 1 1
+/projects/linkshortner(1-3).html 2 15674 0 0
+/projects/linkshortner(1-1).html 2 7514 0 0
+/registerlink.php/username=mehrdad 2 44 0 0
+/biography/biography.html 2 7222 0 1
+/registration/resend.php 1 0 0 0
+/db/deletefromdb.php 1 3453 0 0
+END_SIDER

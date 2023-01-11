@@ -1,0 +1,423 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202110 will be lost/reset.
+# Last config file used to build this data file was /home/mehrdadw/tmp/awstats/ssl/awstats.mehrdadweb.ir.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2014                
+POS_TIME 2688                
+POS_VISITOR 9416                
+POS_DAY 10262               
+POS_DOMAIN 3356                
+POS_LOGIN 3651                
+POS_ROBOT 3806                
+POS_WORMS 4123                
+POS_EMAILSENDER 4254                
+POS_EMAILRECEIVER 4397                
+POS_SESSION 10571               
+POS_SIDER 10748               
+POS_FILETYPES 4532                
+POS_DOWNLOADS 4758                
+POS_OS 4806                
+POS_BROWSER 4961                
+POS_SCREENSIZE 5336                
+POS_UNKNOWNREFERER 5410                
+POS_UNKNOWNREFERERBROWSER 5521                
+POS_ORIGIN 5627                
+POS_SEREFERRALS 5760                
+POS_PAGEREFS 5923                
+POS_SEARCHWORDS 6071                
+POS_KEYWORDS 6223                
+POS_MISC 2351                
+POS_ERRORS 6282                
+POS_CLUSTER 3507                
+POS_SIDER_404 6406                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20211101004018 3 404 8895138449286
+FirstTime 20211001012637
+LastTime 20211031210107
+LastUpdate 20211101162649 3 0 2 0 0
+TotalVisits 23                  
+TotalUnique 20                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 20                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+WindowsMediaPlayerSupport 0 0 0
+TotalMisc 0 0 0
+QuickTimeSupport 0 0 0
+DirectorSupport 0 0 0
+JavaEnabled 0 0 0
+FlashSupport 0 0 0
+AddToFavourites 0 15 0
+RealPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 1 1 12535 5 8 46192
+1 2 2 24908 7 9 63804
+2 1 1 0 8 19 177221
+3 0 0 0 8 11 69907
+4 1 1 66490 4 5 36288
+5 1 1 10523 4 5 29976
+6 1 1 0 5 7 50697
+7 2 2 24911 7 12 59049
+8 3 7 159603 6 8 40025
+9 0 0 0 10 12 45842
+10 26 26 3373 52 59 104056
+11 8 8 448 23 29 58167
+12 4 4 267020 8 13 48473
+13 0 0 0 5 8 93590
+14 8 65 6673921 7 16 36318
+15 0 0 0 4 5 42118
+16 1 1 18850 65 67 380054
+17 1 1 66755 2 2 70452
+18 1 1 0 15 18 75323
+19 1 1 0 72 75 174521
+20 3 15 470337 20 21 128564
+21 5 8 42531 29 33 104731
+22 0 0 0 8 9 65643
+23 6 6 265960 8 10 84258
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 6
+ir 42 76 3354254
+us 23 49 4092586
+cn 6 22 629940
+nl 3 3 0
+ca 1 1 12535
+ua 1 1 18850
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 5
+AhrefsBot/ 116 830679 20211031080708 26
+YandexBot/ 20 124980 20211031071447 10
+bingbot/ 16 128333 20211028112654 8
+no_user_agent 3 199425 20211025203420 0
+unknown 3 72 20211011071751 3
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+png 16 80126 0 0
+js 10 263469 0 0
+ttf 4 565524 0 0
+Unknown 4 24688 0 0
+woff2 4 280632 0 0
+html 28 831173 0 0
+php 36 4128 0 0
+jpg 37 5852920 0 0
+css 13 205505 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 7
+ios_iphone 7 3
+win10 80 46
+Unknown 3 0
+win7 26 3
+linux 12 12
+linuxandroid 15 3
+macosx 9 9
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 16
+chrome95.0.4638.54 38 38
+firefox62.0 1 1
+chrome75.0.3770.100 3 3
+firefox90.0 1 1
+firefox91.0 1 1
+chrome94.0.4606.61 38 4
+chrome75.0.3765.0 15 3
+chrome77.0.3865.90 1 1
+Unknown 3 0
+safari11.0 7 3
+firefox88.0 2 2
+chrome93.0.4577.63 26 3
+firefox83.0 1 1
+chrome76.0.3809.132 1 1
+chrome58.0.3029.110 10 10
+chrome91.0.4472.114 4 4
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+fasthttp 20211006210954
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+fasthttp 20211006210954
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 65 68
+From1 1 1
+From2 1 1
+From3 0 0
+From4 9 82
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+301 19 13433
+401 3 105
+302 1 394
+404 265 787848
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 112
+/downloader/index.php 1 -
+/shop/rss/catalog/notifystock 1 -
+/sitemap.xml 2 -
+/sitemap.txt 1 -
+/SUSKQ 2 -
+/shortlinktolonglink.php 1 -
+/old/downloader/index.php 1 -
+/magento/index.php/admin 1 -
+/nje48 2 -
+/O8anI 3 -
+/Ccx1X 1 -
+/slUrl 4 -
+/jhzo3 4 -
+/QySNE 1 -
+/dev/rss/order/new 1 -
+/dev/index.php/admin 1 -
+/vuIJn 3 -
+/store/rss/order/new 1 -
+/magento/rss/order/new 1 -
+/shop/index.php/admin 1 -
+/errors/503.php 1 -
+/MU4MI 1 -
+/dev/downloader/index.php 1 -
+/07l1D 6 -
+/UX5SK 1 -
+/test/errors/503.php 1 -
+/demo/rss/catalog/notifystock 1 -
+/front/css/public_html/front/css/fonts/isans.woff2 4 https://mehrdadweb.ir/front/css/app.css
+/demo/downloader/index.php 1 -
+/staging/downloader/index.php 1 -
+/magento/rss/catalog/review 1 -
+/rss/catalog/notifystock 1 -
+/store/index.php/admin 1 -
+/yzPPM 57 -
+/vuKAD 1 -
+/test/downloader/index.php 1 -
+/old/rss/catalog/review 1 -
+/shop/downloader/index.php 1 -
+/EhlTg 1 -
+/front/images/prev.png 2 https://mehrdadweb.ir/front/css/app.css
+/gxmJt 2 -
+/test/rss/order/new 1 -
+/staging/rss/catalog/notifystock 1 -
+/4JjVS 1 -
+/dev/rss/catalog/notifystock 1 -
+/tX6o0 1 -
+/demo/index.php/admin 1 -
+/sitemap_index.xml 1 -
+/7ff4o 30 -
+/SUalr 1 -
+/oYS2o 4 -
+/staging/errors/503.php 1 -
+/rss/catalog/review 1 -
+/dev/errors/503.php 1 -
+/test/rss/catalog/review 1 -
+/Vrli6 1 -
+/peIVN 8 -
+/tDErq 5 -
+/Qhci6 1 -
+/fArsb 3 -
+/nQ1td 5 -
+/rss/order/new 1 -
+/old/errors/503.php 1 -
+/article/09353408373 1 -
+/front/img/favicon-96x96.png 1 -
+/demo/rss/catalog/review 1 -
+/staging/rss/catalog/review 1 -
+/front/css/public_html/front/css/fonts/isans.woff 3 https://mehrdadweb.ir/front/css/app.css
+/atom.xml 1 -
+/demo/rss/order/new 1 -
+/old/rss/catalog/notifystock 2 -
+/1TWDZ 1 -
+/BfPUN 2 -
+/dev/rss/catalog/review 1 -
+/6zmuA 1 -
+/sitemaps.xml 1 -
+/test/index.php/admin 1 -
+/store/errors/503.php 1 -
+/bOpTD 1 -
+/mM4Rj 2 -
+/magento/errors/503.php 1 -
+/jquery-3.5.1.min.js 1 https://mehrdadweb.ir/URLShortener
+/knRU4 1 -
+/shop/errors/503.php 1 -
+/old/index.php/admin 1 -
+/a0mQF 1 -
+/store/downloader/index.php 1 -
+/front/images/close.png 2 https://mehrdadweb.ir/front/css/app.css
+/Iew5e 12 -
+/store/rss/catalog/notifystock 1 -
+/store/rss/catalog/review 1 -
+/TnnkV 2 -
+/demo/errors/503.php 1 -
+/3w6H1 2 -
+/shop/rss/order/new 1 -
+/dvqXg 1 -
+/staging/index.php/admin 1 -
+/magento/rss/catalog/notifystock 1 -
+/O2dTJ 1 -
+/M620j 1 -
+/shop/rss/catalog/review 1 -
+/magento/downloader/index.php 1 -
+/front/images/loading.gif 2 https://mehrdadweb.ir/front/css/app.css
+/DqgGY 1 -
+/front/images/next.png 2 https://mehrdadweb.ir/front/css/app.css
+/ZPO6H 2 -
+/YS2o 1 -
+/sitemap.xml.gz 1 -
+/JmS2d 3 -
+/site.webmanifest 2 https://mehrdadweb.ir/URLShortener
+/staging/rss/order/new 1 -
+/old/rss/order/new 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 20
+2.180.82.242 30 30 3680 20211031104431
+2.180.225.246 8 8 448 20211028112046
+35.175.205.108 4 4 267020 20211031120331
+3.87.41.29 4 4 265960 20211001233437
+2.180.55.152 4 38 3350126 20211001141027
+139.162.7.175 3 3 0 20211002025726
+171.13.14.51 3 7 159603 20211017082921
+76.75.38.132 3 26 3311345 20211001141014
+171.13.14.49 3 15 470337 20211006200303
+54.189.153.201 2 2 24911 20211011071752
+3.144.249.206 2 2 25070 20211031210107
+18.217.213.169 2 2 24908 20211001012637
+54.176.114.94 1 1 0 20211007065755
+8.210.156.237 1 4 17154 20211006210948
+194.110.13.12 1 1 18850 20211004160037
+35.173.132.88 1 1 66755 20211030172754
+15.223.41.19 1 1 12450 20211013145002
+3.249.86.40 1 1 10523 20211013054021
+192.99.18.136 1 1 12535 20211029005937
+54.82.96.154 1 1 66490 20211001042710
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 12
+20211001 16 73 7018829 6
+20211002 1 1 0 1
+20211004 1 1 18850 1
+20211006 4 19 487491 2
+20211007 1 1 0 1
+20211011 2 2 24911 1
+20211013 2 2 22973 2
+20211017 3 7 159603 1
+20211028 8 8 448 1
+20211029 1 1 12535 1
+20211030 5 5 67062 3
+20211031 32 32 295463 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+0s-30s 18
+2mn-5mn 2
+30s-2mn 1
+30mn-1h 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 8
+/shortlink/shortlinktolonglink.php 36 4128 3 3
+/ 28 831173 18 14
+/front/css/font-awesome/fonts/fontawesome-webfont.woff2 4 280632 0 0
+/front/css/ionicons/fonts/ionicons.ttf 4 565524 0 3
+/URLShortener 1 5838 0 1
+/Iew5e 1 0 1 0
+/yzPPM 1 0 0 1
+/index.php/login 1 18850 1 1
+END_SIDER
